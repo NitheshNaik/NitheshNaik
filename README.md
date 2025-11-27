@@ -1,5 +1,5 @@
 #  About Me:
-🎓 Final-year B.E. Computer Science student<br><br>💻 Skilled in Java programming with a strong grasp of Object-Oriented Concepts<br><br>📊 Solid understanding of Data Structures & Algorithms<br><br>🌐 Hands-on experience in Web Development (Frontend & Backend basics)<br><br>🔧 Proficient in Git & GitHub for version control and collaboration<br><br>🚀 Passionate about problem-solving and continuous learning<br><br>🤝 Enthusiastic team player with a drive to contribute to impactful projects
+🎓 Final-year B.E. Computer Science student<br><br>💻 Skilled in Java programming with a strong grasp of Object-Oriented Concepts<br><br>📊 Solid understanding of Data Structures & Algorithms<br><br>🌐 Hands-on experience in Web Development <br><br>🔧 Proficient in Git & GitHub for version control and collaboration<br><br>🚀 Passionate about problem-solving and continuous learning<br><br>🤝 Enthusiastic team player with a drive to contribute to impactful projects
 
 
 # 💻 Tech Stack:
